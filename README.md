@@ -1,2 +1,5 @@
 # Project2C_AudreyKristin
 This is the first draft of my R Notebook for Project 2.
+The files uploaded include the .Rmd and knitted .html files, as well as the necessary files including the fasta files of p53, p63, and p73 amino acid sequences named "p53.fasta", "p63.fasta", and "p73.fasta" respectively, and the pdb files of the DNA binding domains of p53, p63, and p73, named "2fej.pdb", "2rmn.pdb", and "2xwc.pdb" respectively.
+The scientific question of this project is: "Given that the p53 family of proteins (p53, p63, and p73) serve overlapping functions in normal development and regulating the expression of genes that control apoptosis in humans, how do they compare in terms of amino acid sequence identity and 3D protein structure?"
+The scientific hypothesis of this project is: "If the p53 family of proteins all serve the redundant function in normal development and regulating the expression of genes that control apoptosis in humans, then we would expect the amino acid sequence identity to be >50% and the DNA-binding domains to share structural homology."
